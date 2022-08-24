@@ -1,27 +1,77 @@
-# 簡歷Resume
+[照片]
 
-## 名字 Name
-- 中文: 徐吉弘
-- 英文: James Hsu
+# Chi-Hung Hsu (徐吉弘)
 
-## 技能Skills
+---
 
-#### 慣用技能
-- [![NPM](https://img.shields.io/badge/GIT-d7593e?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-- [![NPM](https://img.shields.io/badge/NPM-ba443f?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-- [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-- [![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://zh-hant.reactjs.org/)
-- [![LESS](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/) [![LESS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-- [![Webpack](https://img.shields.io/badge/Webpack-6599c4?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)  
-- WebGl: [Threejs](https://threejs.org/)
-- 物理：[Cannon](https://github.com/pmndrs/cannon-es)
-- 圖像辨識、文字辨識、語意辨識、臉部辨識
+## [自我簡介]
 
-#### 偶爾使用技能
-`git flow`, `php`, `mysql`, `next`, `docker`, `arduino`
+## Education
 
-## 常用工具
-- `ESLine`: `airbnb`
-- `prettier`
-- `gitHub Action`
-- `GCP`
+1998-2001 : **Hunicipal Haiching Vocational Hight School of Technology and Commerce(海青工商)**
+
+    *Department of Advertising and Design(廣告設計科)*
+
+2001-2005 : **Chinese Culture University(中國文化大學)**
+
+    *Department of Advertising(廣告系創意組)*
+
+## Experience
+
+2015-now: **Ogilvy & Mather Advertising(奧美廣告)**
+
+    *Digital Consultant(數位技術顧問)*
+
+2011-2015: **Ogilvy & Mather Advertising(奧美廣告)**
+
+    *Production Head(數位技術指導)*
+
+2010-2011: **EMPower Solutions(極創意)**
+
+    *Designer(互動設計師)*
+
+## Technical Experience
+
+1. runtime: **nodeJS**.(use `Express`)
+2. library: **React** (use `function/class component`, `ECMAScript 6`)、**Nextjs**、**Threejs**、**Cannon-es**、**p2.js**、**websocket**、**GCP** (use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`,`firebase`,`sheets`,`speech`)、**Line** (use `message`,`Login`,`liff`)
+3. State Manager: **Reducer**、**Redex**.
+4. CSS: **Scss/Less**、**tailwindcss**、**Material UI**、**Bootstrap**、**Styled-components**、**React CSS Modules**.
+5. formater: **Prettier**.
+6. coding Style: **ESLint**. (use `airbnb`)
+7. javascript syntax types: **Typescript**.
+8. bundler: **webpack**.
+9. git: **GitHub**、**Bitbucket**
+10. API: **fetch** (use `JWT`, `json`, `REST/RESTful`)
+11. backend: **php**, **mysql**(use `phgmyadmin`);
+12. software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**zeplin**、**Figma**、**Sketch**
+
+## Languages
+
+- Languages:
+
+  - Chinese (native speaker)
+  - English (Upper Intermediate)
+  - Taiwanese
+  - Hakka
+
+## Projects / work
+
+[HEYSONG]
+
+[TAYA]
+
+[CTOC]
+
+[FAMILY MART]
+
+[SKL TEA]
+
+[CHIAOSHI 道別與言]
+
+[Nutrilite]
+
+[KOTEX]
+
+[CHIAOSHI 有些任性大人才賭懂]
+
+[NIKE AIR MAPMAX]
