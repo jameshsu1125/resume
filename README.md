@@ -43,7 +43,7 @@
 9. git: **GitHub**、**Bitbucket**
 10. API: **fetch** (use `JWT`、`json`、`REST/RESTful`)
 11. backend: **php**, **mysql**(use `phgmyadmin`);
-12. software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**zeplin**、**Figma**、**Sketch**
+12. software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
 
 ## Languages
 
