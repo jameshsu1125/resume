@@ -4,7 +4,6 @@
 
 ---
 
-    個性社交上
     年輕時個性開朗喜歡社交，到處旅遊到處體驗事務，喜歡打籃球、打電玩跟看電影。
     隨著年紀變大成家立業後慢慢變的成穩一點，社交上友善交友點到為止。
 
@@ -12,7 +11,7 @@
     每次有工作遇到不會的東西，一有時間就會馬上去學，
     確保下次可以處理類似的工作。
 
-    喜歡研究東西，喜歡把東西做出來的感覺。
+    喜歡研究東西跟把東西做出來的感覺。
 
 ---
 
@@ -56,70 +55,72 @@
 
 ## Projects / work
 
-[HEYSONG]
+[HEYSONG](https://jameshsu1125.github.io/2022-heysong-monopoly/)
 
-[TAYA]
+[TAYA](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)
 
-[CTOC]
+[CTOC](https://ctoc-app.netlify.app/)
 
-[FAMILY MART]
+[FAMILY MART](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)
 
-[SKL TEA]
+[SKL TEA](https://jameshsu1125.github.io/2021-skl-shake-tea/)
 
-[CHIAOSHI 道別與言]
+[CHIAOSHI 道別與言](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)
 
-[Nutrilite]
+[Nutrilite](https://jameshsu1125.github.io/2019-nutrilite-traceability/)
 
-[KOTEX]
+[KOTEX](https://jameshsu1125.github.io/2018-kotex-room-escape/)
 
-[CHIAOSHI 有些任性大人才賭懂]
+[CHIAOSHI 有些任性大人才賭懂](https://jameshsu1125.github.io/2018-chiaohsi-grownupknows/)
 
-[NIKE AIR MAPMAX]
+[NIKE AIR MAPMAX](https://jameshsu1125.github.io/2017-air-maxtape/)
 
 ## Published NPM
 
-[lesca-sensor-motion]
+[lesca-sensor-motion](https://www.npmjs.com/package/lesca-sensor-motion)
 
-[lesca-facebook-share]
+[lesca-facebook-share](https://www.npmjs.com/package/lesca-facebook-share)
 
-[lesca-line-share]
+[lesca-line-share](https://www.npmjs.com/package/lesca-line-share)
 
-[lesca-gtag]
+[lesca-gtag](https://www.npmjs.com/package/lesca-gtag)
 
-[lesca-react-landscape]
+[lesca-react-landscape](https://www.npmjs.com/package/lesca-react-landscape)
 
-[lesca-react-loading]
+[lesca-react-loading](https://www.npmjs.com/package/lesca-react-loading)
 
-[lesca-sensor-orientation]
+[lesca-sensor-orientation](https://www.npmjs.com/package/lesca-sensor-orientation)
 
-[lesca-user-agent]
+[lesca-user-agent](https://www.npmjs.com/package/lesca-user-agent)
 
-[lesca-enterframe]
+[lesca-click](https://www.npmjs.com/package/lesca-click)
 
-[lesca-url-parameters]
+[lesca-enterframe](https://www.npmjs.com/package/lesca-enterframe)
 
-[lesca-atobtoa]
+[lesca-url-parameters](https://www.npmjs.com/package/lesca-url-parameters)
 
-[lesca-react-capture-button]
+[lesca-atobtoa](https://www.npmjs.com/package/lesca-atobtoa)
 
-[lesca-local-storage]
+[lesca-react-capture-button](https://www.npmjs.com/package/lesca-react-capture-button)
 
-[lesca-object-tweener]
+[lesca-local-storage](https://www.npmjs.com/package/lesca-local-storage)
 
-[lesca-image-onload]
+[lesca-object-tweener](https://www.npmjs.com/package/lesca-object-tweener)
 
-[lesca-use-tween]
+[lesca-image-onload](https://www.npmjs.com/package/lesca-image-onload)
 
-[lesca-use-countdown]
+[lesca-use-tween](https://www.npmjs.com/package/lesca-use-tween)
 
-[lesca-sp88-fetch]
+[lesca-use-countdown](https://www.npmjs.com/package/lesca-use-countdown)
 
-[lesca-react-qrcode]
+[lesca-sp88-fetch](https://www.npmjs.com/package/lesca-sp88-fetch)
 
-[lesca-sensor-orientation-change]
+[lesca-react-qrcode](https://www.npmjs.com/package/lesca-react-qrcode)
 
-[lesca-webgl-threejs]
+[lesca-sensor-orientation-change](https://www.npmjs.com/package/lesca-sensor-orientation-change)
 
-[lesca-glb-loader]
+[lesca-webgl-threejs](https://www.npmjs.com/package/lesca-webgl-threejs)
 
-[lesca-react-scratch-card]
+[lesca-glb-loader](https://www.npmjs.com/package/lesca-glb-loader)
+
+[lesca-react-scratch-card](https://www.npmjs.com/package/lesca-react-scratch-card)
