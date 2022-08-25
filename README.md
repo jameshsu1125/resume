@@ -72,11 +72,7 @@
 
 [CHIAOSHI 有些任性大人才賭懂](https://jameshsu1125.github.io/2018-chiaohsi-grownupknows/)
 
-[NIKE AIR MAPMAX](https://jameshsu1125.github.io/2017-air-maxtape/) [![線上讀書會
-
-[![Watch the video](https://user-images.githubusercontent.com/70932507/186648334-c5f97330-6315-4e39-8431-76f954fc8f29.gif)](https://www.youtube.com/watch?v=Ct9OpA0q8eo)
-
-
+[NIKE AIR MAPMAX](https://jameshsu1125.github.io/2017-air-maxtape/) [![Watch the video](https://user-images.githubusercontent.com/70932507/186648334-c5f97330-6315-4e39-8431-76f954fc8f29.gif)](https://www.youtube.com/watch?v=Ct9OpA0q8eo)
 
 ## Published NPM
 
