@@ -66,7 +66,7 @@
 
 [CHIAOSHI 道別與言](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)
 
-[Nutrilite](https://jameshsu1125.github.io/2019-nutrilite-traceability/)
+[紐崔萊植萃追溯之旅挑戰賽 紐崔萊](https://jameshsu1125.github.io/2019-nutrilite-traceability/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187405015-22664c49-fb0f-4d05-92ae-1883c8944ac0.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
 [第二夜密室逃脫 kotex靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
