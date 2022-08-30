@@ -68,7 +68,7 @@
 
 [Nutrilite](https://jameshsu1125.github.io/2019-nutrilite-traceability/)
 
-[KOTEX](https://jameshsu1125.github.io/2018-kotex-room-escape/)
+[第二夜密室逃脫 kotex靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
 [礁溪老爺酒店-老爺式成年理](https://jameshsu1125.github.io/2018-chiaohsi-grownupknows/)[![Watch the video](https://user-images.githubusercontent.com/70932507/186879693-ea79857c-c092-49c0-890d-e2c379d26190.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
