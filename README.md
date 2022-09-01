@@ -58,7 +58,7 @@
 
 [TAYA](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)
 
-[CTOC](https://ctoc-app.netlify.app/)
+[揪神RUN台灣 中華奧會](https://ctoc-app.netlify.app/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187898459-caca63ab-4bfe-4f34-b97a-cd49c4c1b862.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
 
 [看見台灣 - 齊柏林基金會 x FamilyMart](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187881321-e00008cb-5f0a-4408-9735-f5068ad0f165.gif)](https://www.youtube.com/watch?v=wQAjGIjKjm4)
 
