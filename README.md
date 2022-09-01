@@ -62,7 +62,7 @@
 
 [FAMILY MART](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)
 
-[新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video]([https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif](https://user-images.githubusercontent.com/70932507/187846713-383783d8-04b7-427a-b7a5-e08b3e9e841e.gif)](https://www.youtube.com/watch?v=HdOQgFlrDaE)
+[新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)(https://www.youtube.com/watch?v=HdOQgFlrDaE)
 
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
