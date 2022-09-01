@@ -36,14 +36,14 @@
 2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
 3. State Manager: **Reducer**、**Redex**.
 4. CSS library: **Scss/Less**、**Tailwindcss**、**Material UI**、**Bootstrap**、**Styled-components**、**React CSS Modules**.
-5. code formater: **Prettier**.
-6. coding Style: **ESLint**. _( use `airbnb`)_
-7. javascript syntax: **Typescript**、**NPM**.
-8. bundler: **Webpack**.
-9. git: **GitHub**、**Bitbucket**
+5. Code formater: **Prettier**.
+6. Coding Style: **ESLint**. _( use `airbnb`)_
+7. Javascript syntax: **Typescript**、**NPM**.
+8. Bundler: **Webpack**.
+9. Git: **GitHub**、**Bitbucket**
 10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_
-11. backend: **php**, **mysql** _( use `phgmyadmin`)_;
-12. software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
+11. Backend: **php**, **mysql** _( use `phgmyadmin`)_;
+12. Software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
 
 ## Languages
 
@@ -62,7 +62,7 @@
 
 [FAMILY MART](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)
 
-[SKL TEA](https://jameshsu1125.github.io/2021-skl-shake-tea/)
+[新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video]([https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif](https://user-images.githubusercontent.com/70932507/187846713-383783d8-04b7-427a-b7a5-e08b3e9e841e.gif)](https://www.youtube.com/watch?v=HdOQgFlrDaE)
 
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
