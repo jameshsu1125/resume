@@ -64,11 +64,11 @@
 
 [SKL TEA](https://jameshsu1125.github.io/2021-skl-shake-tea/)
 
-[CHIAOSHI 道別與言](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)
+[老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
-[紐崔萊植萃追溯之旅挑戰賽 紐崔萊](https://jameshsu1125.github.io/2019-nutrilite-traceability/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187405015-22664c49-fb0f-4d05-92ae-1883c8944ac0.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
+[紐崔萊植萃追溯之旅挑戰賽 紐崔萊](https://jameshsu1125.github.io/2019-nutrilite-traceability/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187405015-22664c49-fb0f-4d05-92ae-1883c8944ac0.gif)](https://www.youtube.com/watch?v=V5M8tq9fNhM)
 
-[第二夜密室逃脫 kotex靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
+[第二夜密室逃脫 kotex靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=NE4LzqDkqQI)
 
 [礁溪老爺酒店-老爺式成年理](https://jameshsu1125.github.io/2018-chiaohsi-grownupknows/)[![Watch the video](https://user-images.githubusercontent.com/70932507/186879693-ea79857c-c092-49c0-890d-e2c379d26190.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
