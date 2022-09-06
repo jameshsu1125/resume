@@ -3,17 +3,18 @@
 # Chi-Hung Hsu (徐吉弘)
 
 ---
+    
+    Dear Sir or Madam：
+    My name is Chi-Hung Hsu.
+    I've been a front-end engineer for about 15 years.
+    I have a great deal of experience in development of web apps, 
+    and I am able to work independently and as part of a team.
+    I am most familiar with interactive game web apps(SPA), 
+    and also good at animation transition and web display.(3D 2D transition).
 
-    Hello, visiter.
+    I am always eager to learn and try new thing.
 
-    My name is Chi-Hung Hsu,
-    and I've been a front-end engineer for about 15 years.(since 2015).
-    I have experience in independent and cooperative development of web apps.
-    The most type is game interactive web apps.(SPA)
-    Also good in the animation transition and web display.
-
-    I am love to learn with someone, and try new thing.
-    Welcome to contact me.
+    Please feel free to contact me at any time if further information is needed.
 
     Hi 我的名字是 徐吉弘
     我已經從事前端工程師大約15年
