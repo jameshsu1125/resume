@@ -65,13 +65,6 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 11. Backend: **php**, **mysql** _( use `phgmyadmin`)_;
 12. Software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
 
-## Languages
-
-- Chinese _(native speaker)_
-- English _(Upper Intermediate)_
-- Taiwanese
-- Hakka
-
 ## Projects / work
 
 [黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
@@ -143,6 +136,13 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [lesca-glb-loader](https://www.npmjs.com/package/lesca-glb-loader)
 
 [lesca-react-scratch-card](https://www.npmjs.com/package/lesca-react-scratch-card)
+
+## Languages
+
+- Chinese _(native speaker)_
+- English _(Upper Intermediate)_
+- Taiwanese
+- Hakka
 
 ## Contact
 
