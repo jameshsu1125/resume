@@ -15,7 +15,7 @@
     I am love to learn with someone, and try new thing.
     Welcome to contact me.
 
-    Hi 我的名字是 Hsu Chi-Hung
+    Hi 我的名字是 徐吉弘
     我已經從事前端工程師大約15年
     有獨立和多人合作開發經驗
     經常性開發網頁應用程式和遊戲流程網頁app
