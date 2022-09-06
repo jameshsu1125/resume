@@ -9,8 +9,8 @@
     My name is Chi-Hung Hsu,
     and I've been a front-end engineer for about 15 years.(since 2015).
     I have experience in independent and cooperative development of web apps.
-    The most is interactive game web apps.(SPA)
-    Also good in the web transition and web display.(3D 2D transition)
+    The most type is game interactive web apps.(SPA)
+    Also good in the animation transition and web display.
 
     I am love to learn with someone, and try new thing.
     Welcome to contact me.
