@@ -31,6 +31,7 @@
 ## Contact
 
 Email: jameshsu1125@gmail.com
+
 Issus: https://github.com/jameshsu1125/resume/issues
 
 ## Experience
@@ -145,4 +146,5 @@ Issus: https://github.com/jameshsu1125/resume/issues
 ## Contact
 
 Email: jameshsu1125@gmail.com
+
 Issus: https://github.com/jameshsu1125/resume/issues
