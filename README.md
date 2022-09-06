@@ -54,9 +54,9 @@
 
 ## Projects / work
 
-[HEYSONG](https://jameshsu1125.github.io/2022-heysong-monopoly/)
+[黑松沙士 夢想GOGO樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
 
-[TAYA](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)
+[大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
 
 [揪神RUN台灣 中華奧會](https://ctoc-app.netlify.app/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187898459-caca63ab-4bfe-4f34-b97a-cd49c4c1b862.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
 
