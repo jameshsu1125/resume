@@ -4,16 +4,34 @@
 
 ---
 
-    年輕時個性開朗喜歡社交，到處旅遊到處體驗事務，喜歡打籃球、打電玩跟看電影。
-    隨著年紀變大成家立業後慢慢變的成穩一點，社交上友善交友點到為止。
+    Hello, visiter.
 
-    因為在廣告公司服務10多年，大部分專業都是自學。
-    每次有工作遇到不會的東西，一有時間就會馬上去學，
-    確保下次可以處理類似的工作。
+    My name is Chi-Hung Hsu,
+    and I've been a front-end engineer for about 15 years.(since 2015).
+    I have experience in independent and cooperative development of web apps.
+    The most is interactive game web apps.(SPA)
+    Also good in the web transition and web display.(3D 2D transition)
 
-    喜歡研究東西跟把東西做出來的感覺。
+    I am love to learn with someone, and try new thing.
+    Welcome to contact me.
+
+    Hi 我的名字是 Hsu Chi-Hung
+    我已經從事前端工程師大約15年
+    有獨立和多人合作開發經驗
+    經常性開發網頁應用程式和遊戲流程網頁app
+    網頁的動態和表現也有所研究
+
+    我喜歡跟人學習
+    也喜歡嘗試研究新的東西
+
+    有任何問題歡迎聯絡
 
 ---
+
+## Contact
+
+Email: jameshsu1125@gmail.com
+Issus: https://github.com/jameshsu1125/resume/issues
 
 ## Experience
 
@@ -54,11 +72,11 @@
 
 ## Projects / work
 
-[黑松沙士 夢想GOGO樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
+[黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
 
-[大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
+[大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://www.youtube.com/watch?v=qKQAx3J3g_Y)
 
-[揪神RUN台灣 中華奧會](https://ctoc-app.netlify.app/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187898459-caca63ab-4bfe-4f34-b97a-cd49c4c1b862.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
+[揪神 RUN 台灣 中華奧會](https://ctoc-app.netlify.app/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187898459-caca63ab-4bfe-4f34-b97a-cd49c4c1b862.gif)](https://www.youtube.com/watch?v=YvGLtl8EYHA)
 
 [看見台灣 - 齊柏林基金會 x FamilyMart](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187881321-e00008cb-5f0a-4408-9735-f5068ad0f165.gif)](https://www.youtube.com/watch?v=wQAjGIjKjm4)
 
@@ -68,7 +86,7 @@
 
 [紐崔萊植萃追溯之旅挑戰賽 紐崔萊](https://jameshsu1125.github.io/2019-nutrilite-traceability/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187405015-22664c49-fb0f-4d05-92ae-1883c8944ac0.gif)](https://www.youtube.com/watch?v=V5M8tq9fNhM)
 
-[第二夜密室逃脫 kotex靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=NE4LzqDkqQI)
+[第二夜密室逃脫 kotex 靠得住](https://jameshsu1125.github.io/2018-kotex-room-escape/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187350243-9286732f-6cef-4caa-9ded-78099a17c4e4.gif)](https://www.youtube.com/watch?v=NE4LzqDkqQI)
 
 [礁溪老爺酒店-老爺式成年理](https://jameshsu1125.github.io/2018-chiaohsi-grownupknows/)[![Watch the video](https://user-images.githubusercontent.com/70932507/186879693-ea79857c-c092-49c0-890d-e2c379d26190.gif)](https://www.youtube.com/watch?v=gluysggsc6U)
 
@@ -123,3 +141,8 @@
 [lesca-glb-loader](https://www.npmjs.com/package/lesca-glb-loader)
 
 [lesca-react-scratch-card](https://www.npmjs.com/package/lesca-react-scratch-card)
+
+## Contact
+
+Email: jameshsu1125@gmail.com
+Issus: https://github.com/jameshsu1125/resume/issues
