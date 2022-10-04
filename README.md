@@ -53,7 +53,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 ## Skills
 
 1. Runtime: **nodeJS**._( use `Express`)_
-2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
+2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`, `react-router`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
 3. State Manager: **Reducer**、**Redex**.
 4. CSS library: **Scss/Less**、**Tailwindcss**、**Material UI**、**Bootstrap**、**Styled-components**、**React CSS Modules**.
 5. Code formater: **Prettier**.
