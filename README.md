@@ -62,10 +62,13 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 8. Bundler: **Webpack**.
 9. Git: **GitHub**、**Bitbucket**
 10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_
-11. Backend: **php**, **mysql** _( use `phgmyadmin`)_;
+11. Backend: **php**, **mysql** _( use `phgmyadmin`)_、**mongodb**
 12. Software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
+13. Service: **Vercel**、**Sentry**、~~heroku~~、**BlueHost**
 
 ## Projects / work
+
+[Next Bank-測測你的【後天生命線】](https://jameshsu1125.github.io/2022-next-bank-lifeline/)
 
 [黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
 
@@ -76,6 +79,8 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [看見台灣 - 齊柏林基金會 x FamilyMart](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187881321-e00008cb-5f0a-4408-9735-f5068ad0f165.gif)](https://www.youtube.com/watch?v=wQAjGIjKjm4)
 
 [新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187847392-ae09e7fc-25a7-4ff1-aca5-d43dafbebdce.gif)](https://www.youtube.com/watch?v=HdOQgFlrDaE)
+
+[金門高粱酒 - 單醇 絕不簡單](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
 
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
@@ -125,7 +130,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [lesca-use-countdown](https://www.npmjs.com/package/lesca-use-countdown)
 
-[lesca-sp88-fetch](https://www.npmjs.com/package/lesca-sp88-fetch)
+[lesca-fetcher](https://www.npmjs.com/package/lesca-fetcher)
 
 [lesca-react-qrcode](https://www.npmjs.com/package/lesca-react-qrcode)
 
@@ -136,6 +141,10 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [lesca-glb-loader](https://www.npmjs.com/package/lesca-glb-loader)
 
 [lesca-react-scratch-card](https://www.npmjs.com/package/lesca-react-scratch-card)
+
+[lesca-comma-string](https://www.npmjs.com/package/lesca-comma-string)
+
+[lesca-react-char-transition](https://www.npmjs.com/package/lesca-react-char-transition)
 
 ## Languages
 
