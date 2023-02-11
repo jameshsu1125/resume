@@ -52,17 +52,17 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 ## Skills
 
-1. Runtime: **nodeJS**._( use `Express`)_
+1. Runtime: **nodeJS**
 2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`, `react-router`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
 3. State Manager: **Reducer**、**Redex**.
 4. CSS library: **Scss/Less**、**Tailwindcss**、**Material UI**、**Bootstrap**、**Styled-components**、**React CSS Modules**.
 5. Code formater: **Prettier**.
 6. Coding Style: **ESLint**. _( use `airbnb`)_
-7. Javascript syntax: **Typescript**、**NPM**.
+7. Javascript syntax: **Typescript**
 8. Bundler: **Webpack**.
 9. Git: **GitHub**、**Bitbucket**
 10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_
-11. Backend: **php**, **mysql** _( use `phgmyadmin`)_、**mongodb**
+11. Backend: **php** + **mysql** _( use `phgmyadmin`)_、**express** + **mongodb**
 12. Software: **Photoshop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
 13. Service: **Vercel**、**Sentry**、~~heroku~~、**BlueHost**
 
