@@ -68,7 +68,9 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 ## Projects / work
 
-[Next Bank-測測你的【後天生命線】](https://jameshsu1125.github.io/2022-next-bank-lifeline/)
+[CROWN JOURNEY](https://www.toyota.com.tw/event/202303_CROWN/)[![image](https://www.toyota.com.tw/event/202303_CROWN/img/meta-img.jpg)](https://www.toyota.com.tw/event/202303_CROWN/)
+
+[Next Bank-測測你的【後天生命線】](https://jameshsu1125.github.io/2022-next-bank-lifeline/)[![image](https://jameshsu1125.github.io/2022-next-bank-lifeline/img/meta-img.jpg)](https://jameshsu1125.github.io/2022-next-bank-lifeline/)
 
 [黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
 
@@ -145,6 +147,8 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [lesca-comma-string](https://www.npmjs.com/package/lesca-comma-string)
 
 [lesca-react-char-transition](https://www.npmjs.com/package/lesca-react-char-transition)
+
+[lesca-react-onload](https://www.npmjs.com/package/lesca-react-onload?activeTab=readme)
 
 ## Languages
 
