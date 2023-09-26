@@ -64,7 +64,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_
 11. Backend: **php** + **mysql** _( use `phgmyadmin`)_、**express** + **mongodb**
 12. Software: **PhotoShop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
-13. Service: **BlueHost**、**Vercel**、**Netlify**、**Sentry**、~~heroku~~
+13. Service: **BlueHost**、**Vercel**、**Netlify**、**Sentry**、**zeabur**、~~heroku~~
 
 ## Projects / work
 
