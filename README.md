@@ -68,6 +68,10 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 ## Projects / work
 
+[麥當勞你是哪種星級咖](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)[![image](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/img/meta-img.jpg)](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)
+
+[麥當勞你是哪種星級咖](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/)[![image](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/img/meta-img.jpg)](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/)
+
 [CROWN JOURNEY](https://www.toyota.com.tw/event/202303_CROWN/)[![image](https://www.toyota.com.tw/event/202303_CROWN/img/meta-img.jpg)](https://www.toyota.com.tw/event/202303_CROWN/)
 
 [Next Bank-測測你的【後天生命線】](https://jameshsu1125.github.io/2022-next-bank-lifeline/)[![image](https://jameshsu1125.github.io/2022-next-bank-lifeline/img/meta-img.jpg)](https://jameshsu1125.github.io/2022-next-bank-lifeline/)
