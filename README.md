@@ -87,6 +87,10 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187847392-ae09e7fc-25a7-4ff1-aca5-d43dafbebdce.gif)](https://www.youtube.com/watch?v=HdOQgFlrDaE)
 
 [金門高粱酒 - 單醇 絕不簡單](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
+[![image](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/img/meta-img.jpg)](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
+
+[啟動圓動力，從升起一盞湯圓天燈開始](https://jameshsu1125.github.io/2021-laurel-riceball/)
+[![image](https://jameshsu1125.github.io/2021-laurel-riceball/img/meta-img.jpg)](https://jameshsu1125.github.io/2021-laurel-riceball/)
 
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
