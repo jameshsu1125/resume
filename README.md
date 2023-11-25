@@ -6,7 +6,7 @@
 
     Dear Sir or Madam：
     My name is Chi-Hung Hsu.
-    I've been a front-end engineer for about 15 years.
+    I've been a full-stack engineer for about 15 years.
     I have a great deal of experience in the development of web apps,
     and I am able to work independently and as part of a team.
     I am most familiar with interactive game web apps(SPA),
@@ -17,7 +17,7 @@
     Please feel free to contact me at any time if further information is needed.
 
     Hi 我的名字是 徐吉弘
-    我已經從事前端工程師大約15年
+    我已經從事全端工程師大約15年
     有獨立和多人合作開發經驗
     經常性開發網頁應用程式和遊戲流程網頁app
     網頁的動態和表現也很擅長
