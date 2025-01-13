@@ -53,15 +53,15 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 ## Skills
 
 1. Runtime: **nodeJS**
-2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`, `react-router`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
+2. Javscript Library: **React** _( use `function/class component`, `ECMAScript 6`, `react-router`)_、**Nextjs**、**Threejs**、**Cannon-es**、**P2.js**、**mater.js**、**websocket**、**GCP** _( use `vision`、`app engine`、`dialogflow`、`maps`、`youTube`、`Analytics`、`firebase`、`sheets`、`speech`)_、**Line** _( use `message`、`Login`、`liff`)_
 3. State Manager: **Reducer**、**Redex**.
 4. CSS library: **Scss/Less**、**Tailwindcss**、**Material UI**、**Bootstrap**、**Styled-components**、**React CSS Modules**.
 5. Code formatter: **Prettier**.
 6. Coding Style: **ESLint**. _( use `airbnb`)_
 7. Javascript syntax: **Typescript**
-8. Bundler: **Webpack**、**vite**
-9. Git: **GitHub**、**Bitbucket**
-10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_
+8. Bundler: **Webpack**、**vite**、**pmpn**
+9. Git: **GitHub**、**Bitbucket**、**GitLab**
+10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_、**react-query**、**axios**
 11. Backend: **php** + **mysql** _( use `phgmyadmin`)_、**express** + **mongodb**
 12. Software: **PhotoShop**、**Illustrator**、**XD**、**Premiere**、**Zeplin**、**Figma**、**Sketch**
 13. Service: **BlueHost**、**Vercel**、**Netlify**、**Sentry**、**zeabur**、~~heroku~~
@@ -74,8 +74,6 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [CROWN JOURNEY](https://www.toyota.com.tw/event/202303_CROWN/)[![image](https://www.toyota.com.tw/event/202303_CROWN/img/meta-img.jpg)](https://www.toyota.com.tw/event/202303_CROWN/)
 
-[Next Bank-測測你的【後天生命線】](https://jameshsu1125.github.io/2022-next-bank-lifeline/)[![image](https://jameshsu1125.github.io/2022-next-bank-lifeline/img/meta-img.jpg)](https://jameshsu1125.github.io/2022-next-bank-lifeline/)
-
 [黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
 
 [大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://www.youtube.com/watch?v=qKQAx3J3g_Y)
@@ -85,12 +83,6 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 [看見台灣 - 齊柏林基金會 x FamilyMart](https://jameshsu1125.github.io/2021-familyMart-see-taiwan/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187881321-e00008cb-5f0a-4408-9735-f5068ad0f165.gif)](https://www.youtube.com/watch?v=wQAjGIjKjm4)
 
 [新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187847392-ae09e7fc-25a7-4ff1-aca5-d43dafbebdce.gif)](https://www.youtube.com/watch?v=HdOQgFlrDaE)
-
-[金門高粱酒 - 單醇 絕不簡單](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
-[![image](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/img/meta-img.jpg)](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
-
-[啟動圓動力，從升起一盞湯圓天燈開始](https://jameshsu1125.github.io/2021-laurel-riceball/)
-[![image](https://jameshsu1125.github.io/2021-laurel-riceball/img/meta-img.jpg)](https://jameshsu1125.github.io/2021-laurel-riceball/)
 
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
 
