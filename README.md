@@ -37,6 +37,10 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 ## Experience
 
+2023-now: **Appier**
+
+    *軟體工程師(外發工程師)*
+
 2015-now: **Ogilvy & Mather Advertising(奧美廣告)**
 
     *Digital Consultant(數位技術顧問)*
