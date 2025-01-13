@@ -59,7 +59,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 5. Code formatter: **Prettier**.
 6. Coding Style: **ESLint**. _( use `airbnb`)_
 7. Javascript syntax: **Typescript**
-8. Bundler: **Webpack**、**vite**、**pmpn**
+8. Bundler: **Webpack**、**vite**、**pmpn**、**yarn**
 9. Git: **GitHub**、**Bitbucket**、**GitLab**
 10. API: **fetch** _( use `JWT`、`json`、`REST/RESTful`)_、**react-query**、**axios**
 11. Backend: **php** + **mysql** _( use `phgmyadmin`)_、**express** + **mongodb**
@@ -69,6 +69,10 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 ## Projects / work
 
 [麥當勞你是哪種星級咖](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)[![image](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/img/meta-img.jpg)](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)
+
+[奧美林宗緯紅領帶計畫](https://om-tw.github.io/project-terence/)
+
+[奧美新人才來計劃](https://om-tw.github.io/recuitpre/)
 
 [麥當勞你是哪種星級咖](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/)[![image](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/img/meta-img.jpg)](https://jameshsu1125.github.io/2023-mcdonalds-star-metaverse/)
 
