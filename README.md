@@ -41,7 +41,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
     *軟體工程師(外發工程師)*
 
-2015-now: **Ogilvy & Mather Advertising(奧美廣告)**
+2015-2025: **Ogilvy & Mather Advertising(奧美廣告)**
 
     *Digital Consultant(數位技術顧問)*
 
