@@ -231,6 +231,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [王品-語感大會考](https://wowprime-eattogether.netlify.app/)
 [![image](https://wowprime-eattogether.netlify.app/img/meta-img.jpg)](https://wowprime-eattogether.netlify.app/)
+暱稱輸入James | 手機號碼輸入0953033503
 
 [Roborock-F25 Ultra 詭屋蒸相](https://roborock-haunted-house.netlify.app/)[![image](https://roborock-haunted-house.netlify.app/img/meta-img.jpg)](https://roborock-haunted-house.netlify.app/)
 
