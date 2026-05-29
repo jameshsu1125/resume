@@ -237,7 +237,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [麥當勞你是哪種星級咖](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)[![image](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/img/meta-img.jpg)](https://jameshsu1125.github.io/2023-meiji-mushroom-mountain-store/)
 
-[奧美林宗緯紅領帶計畫](https://om-tw.github.io/project-terence/)[![image](https://terence.ogilvy.com.tw/img/meta-img.jpg)](https://terence.ogilvy.com.tw/)
+[奧美林宗緯紅領帶計畫](https://terence.ogilvy.com.tw/)[![image](https://terence.ogilvy.com.tw/img/meta-img.jpg)](https://terence.ogilvy.com.tw/)
 
 [奧美新人才來計劃](https://ogilvyrecuitpre.cecmartech.com/main/)[![image](https://ogilvyrecuitpre.cecmartech.com/main/img/meta-img.jpg)](https://ogilvyrecuitpre.cecmartech.com/main/)
 
