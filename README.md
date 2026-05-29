@@ -247,7 +247,7 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [CROWN JOURNEY](https://www.toyota.com.tw/event/202303_CROWN/)[![image](https://www.toyota.com.tw/event/202303_CROWN/img/meta-img.jpg)](https://www.toyota.com.tw/event/202303_CROWN/)
 
-[黑松沙士 夢想 GOGO 樂](https://jameshsu1125.github.io/2022-heysong-monopoly/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.youtube.com/watch?v=ZFThI2fUdpo)
+[黑松沙士 夢想 GOGO 樂](https://www.behance.net/gallery/158019117/GOGOCampaign-Site)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.behance.net/gallery/158019117/GOGOCampaign-Site)
 
 [大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)
 
