@@ -249,6 +249,8 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [黑松沙士 夢想 GOGO 樂](https://www.behance.net/gallery/158019117/GOGOCampaign-Site)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562143-4e9d8933-4607-46ef-8e61-12e65b7cfb8a.gif)](https://www.behance.net/gallery/158019117/GOGOCampaign-Site)
 
+[王品-手指拜年春聯產生器](https://jameshsu1125.github.io/2022-spring-couplets-generator/)[![image](https://jameshsu1125.github.io/2022-spring-couplets-generator/img/meta-img.jpg)](https://jameshsu1125.github.io/2022-spring-couplets-generator/)
+
 [大亞電線電纜 《連結每個日常》透明生活展](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)[![Watch the video](https://user-images.githubusercontent.com/70932507/188562541-97bbcb81-7e80-4771-80c4-f8288c3fb565.gif)](https://jameshsu1125.github.io/taya-transparent-living-exhibition/)
 
 [揪神 RUN 台灣 中華奧會](https://www.behance.net/gallery/159761097/RUNOLYMPIC-TOKYOOLYMPIC-DAY/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187898459-caca63ab-4bfe-4f34-b97a-cd49c4c1b862.gif)](https://www.behance.net/gallery/159761097/RUNOLYMPIC-TOKYOOLYMPIC-DAY)
@@ -257,7 +259,11 @@ leave a comment at issus: https://github.com/jameshsu1125/resume/issues
 
 [新光人壽 我的好時光手搖客製所](https://jameshsu1125.github.io/2021-skl-shake-tea/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187847392-ae09e7fc-25a7-4ff1-aca5-d43dafbebdce.gif)](https://jameshsu1125.github.io/2021-skl-shake-tea/)
 
+[啟動圓動力，從升起一盞湯圓天燈開始](https://jameshsu1125.github.io/2021-laurel-riceball/)[![image](https://jameshsu1125.github.io/2021-laurel-riceball/img/meta-img.jpg)](https://jameshsu1125.github.io/2021-laurel-riceball/)
+
 [老爺詩歌集 道別與鹽](https://jameshsu1125.github.io/2021-hotel-royal-chiaohsi-poetry-festival/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187836024-7fb41a6d-60c7-4fc8-ba33-8491a9cfd897.gif)](https://www.youtube.com/watch?v=oLaL8tv4Lcg)
+
+[金門高粱酒-打造你的本命酒館](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)[![image](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/img/meta-img.jpg)](https://jameshsu1125.github.io/2020-kkl-build-your-bar-now/)
 
 [紐崔萊植萃追溯之旅挑戰賽 紐崔萊](https://jameshsu1125.github.io/2019-nutrilite-traceability/)[![Watch the video](https://user-images.githubusercontent.com/70932507/187405015-22664c49-fb0f-4d05-92ae-1883c8944ac0.gif)](https://www.youtube.com/watch?v=V5M8tq9fNhM)
 
